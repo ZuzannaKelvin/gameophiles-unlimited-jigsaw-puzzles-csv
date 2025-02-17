@@ -1,10 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/,
-About,/about.html,
+Browse,/browse.html,
 Puzzles,/puzzles-list.html,
 Boardgames,/boardgames-list.html,
 Ephemera,/ephemera.html,
-Browse,/browse.html,
+About,/about.html,
 Resources,,
 Subjects,/subjects.html,Resources
 Locations,/locations.html,Resources
