@@ -1,11 +1,13 @@
 display_name,stub,dropdown_parent
 Home,/,
 About,/about.html,
-Featured Artists,/featured-artists.html,
+Puzzles,/puzzles-list.html,
+Boardgames,/boardgames-list.html,
+Ephemera,/ephemera.html,
 Browse,/browse.html,
-Visualizations,,
-Subjects,/subjects.html,Visualizations
-Locations,/locations.html,Visualizations
-Map,/map.html,Visualizations
-Timeline,/timeline.html,Visualizat
-Data,/data.html,
+Resources,,
+Subjects,/subjects.html,Resources
+Locations,/locations.html,Resources
+Map,/map.html,Resources
+Timeline,/timeline.html,Resources
+Data,/data.html,Resources
