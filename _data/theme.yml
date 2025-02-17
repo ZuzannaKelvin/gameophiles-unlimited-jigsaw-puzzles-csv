@@ -95,8 +95,8 @@ bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS [optional!]
 base-font-size: 1.2em
-text-color: "#0f0f0f"
-link-color: "#186130"
+text-color: "#39bb2c"
+link-color: "#226928"
 base-font-family: Garamond
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
