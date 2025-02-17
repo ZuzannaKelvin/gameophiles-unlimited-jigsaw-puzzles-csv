@@ -1,6 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
+Featured Artists,/featured-artists.html,
 Visualizations,,
 Subjects,/subjects.html,Visualizations
 Locations,/locations.html,Visualizations
