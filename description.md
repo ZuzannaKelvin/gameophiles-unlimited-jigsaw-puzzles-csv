@@ -1,0 +1,5 @@
+**Gameophiles Unlimited** was based in Morristown and Berkeley Heights, New Jersey, in the early to mid-1970s before being acquired by Nordevco. Despite its brief existence, Gameophiles Unlimited produced a diverse range of innovative jigsaw puzzles and board games. Their puzzles featured unique designs, including a *1040 tax form puzzle*, an *empty calendar* that could be customized with a felt marker, and *maps of subways and roads*. They also released a series of *100-piece Pic-Me-Up puzzles*, showcasing illustrations by *Beatrix Potter* and *Wallace Tripp*.  
+
+Their board game collection was equally distinctive, featuring titles such as *Pentagon: A Marble Game* and *The Front Page*, which challenged players to compete in assembling the best layout for the *Main Street Herald* newspaper. *The Chicagoan Game* even encouraged players to "steal" from the bank, adding a playful twist to traditional gameplay.  
+
+This digital exhibit has been created to **archive and document** Gameophiles Unlimited's products, as well as ephemera associated with the company, preserving its legacy in the world of puzzles and board games.
