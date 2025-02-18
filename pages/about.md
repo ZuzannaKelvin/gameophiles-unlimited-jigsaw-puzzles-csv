@@ -13,5 +13,8 @@ credits: true
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
 ## WORK IN PROGRESS
+<div class="remix-app" hash="f092cdd0e6b9aff0">
+        <script src="https://p.interacty.me/l.js" async></script>
+    </div>
 
 {% include cb/about_the_about.md %} 
