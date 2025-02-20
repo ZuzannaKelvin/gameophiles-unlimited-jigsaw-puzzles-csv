@@ -1,6 +1,6 @@
 ---
 title: Boardgames List
-layout: aboutboardgames-list
+layout: about
 permalink: /boardgames-list.html
 # include CollectionBuilder info at bottom
 credits: false
