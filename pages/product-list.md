@@ -130,13 +130,13 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7xxx - Maze - 6 feet Fold Out
 - 7xxx - Merry Old Santa Claus
 
-### Board Games
+## Board Games
 
 #### 1973
 - 7352 - Pentagon: The Marble Game of the 70's
 - 7353 - Frustables
 - 7355 - Cornered but Undaunted
-- 73** - Backgammon
+- 73xx - Backgammon
 
 #### 1974
 - 7470 - The Great City Game of London
