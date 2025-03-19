@@ -4,11 +4,11 @@ layout: page
 permalink: /products.html
 ---
 
-### Product List
+# Product List
 This page presents a comprehensive list of products produced by Gameophiles Unlimited between 1970 and 1975. To date, I have identified 94 products released under the Gameophiles Unlimited brand. However, several identifying numbers remain unaccounted for, suggesting that additional products may exist. I will continue to update this list as further information becomes available.
 
 ## JIGSAW PUZZLES
-# MAPS
+### MAPS
 1971
 7104 | New York City Subway Map
 1972
@@ -52,14 +52,14 @@ This page presents a comprehensive list of products produced by Gameophiles Unli
 7480 | Dallas Road Map
 7481 | Houston Road Map
 74**  | United States Zip Code Map
-# MOVIES
+### MOVIES
 1973
 7230 | MGM Fabulous Four “Gone With The Wind”
 7231 | MGM Fabulous Four “Doctor Zhivago”
 7232 | MGM Fabulous Four “2001: A Space Odyssey”
 7233 | MGM Fabulous Four “Rayan's Daughter”
 7397 | “Fiddler on the Roof”
-# ILLUSTRATIONS
+### ILLUSTRATIONS
 1973
 7341 | Beatrix Potter's Jemima Puddle-Duck https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7341-150.html 
 7342 | Beatrix Potter's Benjamin Bunny https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7342-150.html 
@@ -91,7 +91,7 @@ HEX SIGNS
 7429 | Love, Romance & Marriage
 7430 | The Mighty Oak
 7431 | Irish Hex
-# MISC.
+### MISC.
 1970
 70** | Spiro Agnew Superman 1970 16" x 20" 500 Misc.
 1972
