@@ -1,6 +1,6 @@
 ---
 title: Product List
-layout: delault-list
+layout: page
 permalink: /products.html
 ---
 ***
@@ -10,6 +10,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 ---
 ## Jigsaw Puzzles
 ### Maps
+
 #### 1971
  - 7104 | New York City Subway Map
 #### 1972
