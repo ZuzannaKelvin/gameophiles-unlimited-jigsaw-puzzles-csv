@@ -9,49 +9,92 @@ This page presents a comprehensive list of products produced by Gameophiles Unli
 
 ## JIGSAW PUZZLES
 ### MAPS
-1971
+#### 1971
+
 7104 | New York City Subway Map
-1972
+
+#### 1972
+
 7205 | Paris Subway Map
+
 7213 | Los Angeles Freeway System Map
+
 7214 | Florida Road Map
+
 7215 | Connecticut - Massachusetts - Rhode Island https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7215.html 
+
 7216 | Delaware - Maryland - Virginia - West Virginia
+
 7217 | New Jersey Road Map https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7217.html 
+
 7218 | Illinois Road Map
-1973
+
+#### 1973
+
 7304 | The Underground (London Subway Map) https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7304.html 
+
 7308 | Florida And The Islands Navigational Charts Map
+
 7309 | New England Navigational Charts Map
+
 7315 | Ohio Road Map
+
 7316 | Pennsylvania Road Map
+
 7317 | New York State Road Map
+
 7318 | Texas Road Map
+
 7319 | Tokyo Subway Map
+
 7370 | Pittsburgh Road Map
+
 7371 | Boston Road Map 
+
 7372 | Atlanta Road Map 
+
 7373 | Baltimore Road Map 
+
 7374 | Detroit Road Map
+
 7375 | Kansas Road Map 
+
 7376 | Milwaukee Road Map
+
 7377 | Philadelphia Road Map
+
 7378 | St. Louis Road Map
+
 7379 | Minneapolis St. Paul Road Map 
+
 7380 | San Francisco Road Map 
+
 7381 | Washington DC Road Map
+
 7398 | MBTA Boston Subway Map
-1974
+
+#### 1974
+
 7403 | Long Island Sound Navigational Charts Map
+
 7404 | Chesapeake Bay Navigational Charts Map
+
 7405 | Moscow Subway Map 
+
 7406 | Le Metro Montreal Subway Map
+
 7411 | Map Bermuda Navigational Chart Map
+
 7438 | Cape Cod Navigational Chart Map
+
 7439 | New York City Road Map
+
 7480 | Dallas Road Map
+
 7481 | Houston Road Map
+
 74**  | United States Zip Code Map
+
 ### MOVIES
 1973
 7230 | MGM Fabulous Four “Gone With The Wind”
