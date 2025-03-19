@@ -1,6 +1,6 @@
 ---
 title: Product List
-layout: about
+layout: page-narrow
 permalink: /products.html
 ---
 ***
