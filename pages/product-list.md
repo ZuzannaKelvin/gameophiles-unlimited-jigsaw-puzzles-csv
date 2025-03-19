@@ -4,11 +4,11 @@ layout: page
 permalink: /products.html
 ---
 
-# Product List
+# PRODUCT LIST
 This page presents a comprehensive list of products produced by Gameophiles Unlimited between 1970 and 1975. To date, I have identified 94 products released under the Gameophiles Unlimited brand. However, several identifying numbers remain unaccounted for, suggesting that additional products may exist. I will continue to update this list as further information becomes available.
 
 ## JIGSAW PUZZLES
-### MAPS
+### Maps
 #### 1971
 
 7104 | New York City Subway Map
