@@ -1,8 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-Puzzles,/puzzles-list.html,
-Boardgames,/boardgames-list.html,
+Product List,/products.html,
 Ephemera,/ephemera.html,
 About,/about.html,
 Resources,,
