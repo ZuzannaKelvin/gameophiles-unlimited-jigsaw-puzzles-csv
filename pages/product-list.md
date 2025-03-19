@@ -130,9 +130,13 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7xxx - Maze - 6 feet Fold Out
 - 7xxx - Merry Old Santa Claus
 
+***
+
 ---
 
 ## Board Games
+
+---
 
 #### 1973
 - 7352 - Pentagon: The Marble Game of the 70's
