@@ -12,15 +12,17 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 ### Maps
 
 #### 1971
- - 7104 | New York City Subway Map
+ - 7104 - New York City Subway Map
+
 #### 1972
-- 7205 | Paris Subway Map |
-- 7213 | Los Angeles Freeway System Map 
-- 7214 | Florida Road Map
-- 7215 | [Connecticut - Massachusetts - Rhode Island](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7215.html)
-- 7216 | Delaware - Maryland - Virginia - West Virginia
-- 7217 | [New Jersey Road Map](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7217.html)
-- 7218 | Illinois Road Map
+- 7205 - Paris Subway Map
+- 7213 - Los Angeles Freeway System Map 
+- 7214 - Florida Road Map
+- 7215 - [Connecticut - Massachusetts - Rhode Island](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7215.html)
+- 7216 - Delaware - Maryland - Virginia - West Virginia
+- 7217 - [New Jersey Road Map](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7217.html)
+- 7218 - Illinois Road Map
+
 #### 1973
  - 7304 | [The Underground (London Subway Map)](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7304.html)
  - 7308 | Florida And The Islands Navigational Charts Map
