@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-# About this Collection
+## About this Collection
 Work in progress, more content coming soon.
 
 {% include feature/image.html objectid="7345-150" width="50" %}
