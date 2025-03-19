@@ -9,6 +9,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 #### Number of Identified Products: 94
 ---
 ## Jigsaw Puzzles
+
 ### Maps
 
 #### 1971
@@ -66,6 +67,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7232 - MGM Fabulous Four “2001: A Space Odyssey”
 - 7233 - MGM Fabulous Four “Rayan's Daughter”
 - 7397 - “Fiddler on the Roof”
+
 ### Illustrations
 
 #### 1973
@@ -153,4 +155,4 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 - 7xxx | Chicagoan Game
 
----
+***
