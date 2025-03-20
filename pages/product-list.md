@@ -3,7 +3,7 @@ title: Product List
 layout: page
 permalink: /products.html
 ---
-![Alt text](https://i.imgur.com/W8bnI10.jpg)
+[![Alt text](URL to image)](![https://i.imgur.com/mDlT7Ci.jpg](https://i.imgur.com/kGD3Z7W.jpg))
 # Product List
 ---
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
