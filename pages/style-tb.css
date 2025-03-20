@@ -22,9 +22,18 @@ body {
     transition: opacity 0.3s ease; /* Smooth transition for opacity changes */
 }
 
+<<<<<<< HEAD
 /* Ensure TOC is fully opaque on hover */
 .toc:hover {
     opacity: 1;
+=======
+.scroll-container {
+    scroll-padding-top: 150px; /* Adjust this value based on your header's height */
+}
+
+h2 {
+    scroll-margin-top: 50px; /* Adjust this value based on your header's height */
+>>>>>>> parent of f76f0f8 (Update style-tb.css)
 }
 
 /* Center the heading */
