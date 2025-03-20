@@ -6,17 +6,16 @@ permalink: /products.html
 # Product List
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
 #### Number of Identified Products: 94
-
+---
 ## Jigsaw Puzzles
+---
 
 ### Maps
 
 ##### 1971
-
  - 7104 - New York City Subway Map
 
 ##### 1972
-
 - 7205 - Paris Subway Map
 - 7213 - Los Angeles Freeway System Map 
 - 7214 - Florida Road Map
@@ -26,7 +25,6 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7218 - Illinois Road Map
 
 ##### 1973
-
 - 7304 - [The Underground (London Subway Map)](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7304.html)
 - 7308 - Florida And The Islands Navigational Charts Map
 - 7309 - New England Navigational Charts Map
@@ -146,8 +144,8 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7xxx - Maze - 6 feet Fold Out
 - 7xxx - Merry Old Santa Claus
 
+---
 ## Board Games
-
 ---
 
 ##### 1973
