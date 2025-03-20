@@ -156,6 +156,85 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 <img src="https://i.imgur.com/yhOzio4.png" alt="Image" width="35" style="float: left; margin-right: 10px;">
 <h2 style="display: inline; vertical-align: middle;" id="section-2">Board Games</h2>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sticky Table of Contents</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        /* Sticky Table of Contents */
+        .toc {
+            position: sticky;
+            top: 20px;  /* Keeps it 20px from the top of the viewport */
+            width: 200px;  /* You can adjust the width as needed */
+            padding: 10px;
+            background-color: #f4f4f4;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .toc a {
+            display: block;
+            margin: 10px 0;
+            text-decoration: none;
+            color: #007bff;
+        }
+
+        .toc a:hover {
+            color: #0056b3;
+        }
+
+        /* Content Styling */
+        section {
+            margin-left: 240px;  /* Leave space for the ToC */
+            margin-bottom: 50px;
+        }
+
+        section h2 {
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Table of Contents (ToC) -->
+    <div class="toc">
+        <ul>
+            <li><a href="#section-1">Go to Section 1</a></li>
+            <li><a href="#section-2">Go to Section 2</a></li>
+            <li><a href="#section-3">Go to Section 3</a></li>
+        </ul>
+    </div>
+
+    <!-- Content -->
+    <div>
+        <section id="section-1">
+            <h2>Section 1</h2>
+            <p>This is the content of Section 1. It's the first section.</p>
+        </section>
+
+        <section id="section-2">
+            <h2>Section 2</h2>
+            <p>This is the content of Section 2. It's the second section.</p>
+        </section>
+
+        <section id="section-3">
+            <h2>Section 3</h2>
+            <p>This is the content of Section 3. It's the third section.</p>
+        </section>
+    </div>
+
+</body>
+</html>
+
 ---
 
 ##### 1973
