@@ -1,0 +1,64 @@
+/* Basic styles for the page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Table of contents styles */
+.toc {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 200px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 100;
+}
+
+.toc h2 {
+    margin-top: 0;
+}
+
+.toc ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.toc li {
+    margin-bottom: 10px;
+}
+
+.toc a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 16px;
+}
+
+.toc a:hover {
+    text-decoration: underline;
+}
+
+/* Styles for content sections */
+.content {
+    margin-left: 240px;
+    padding: 40px;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+h2 {
+    color: #333;
+}
+
+/* Sticky TOC on scroll */
+.sticky {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 200px;
+}
