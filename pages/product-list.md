@@ -10,7 +10,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 #### Number of Identified Products: 94
 
 <a href="https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing">
-  <img src="https://i.imgur.com/QxpzgvZ.png" alt="Click me!" width="75" height="75">
+  <img src="https://i.imgur.com/QxpzgvZ.png" alt="Click me!" width="40" height="40">
 </a>
 
 ---
