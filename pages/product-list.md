@@ -7,11 +7,9 @@ permalink: /products.html
 <div class="toc" id="toc">
 <link rel="stylesheet" href="pages/style-tb.css">
 <script src="pages/sticky.js"></script>
-    <h4>Table of Contents</h4>
+    <h4>Table of Contents</h6>
     <ul>
-        <li><a href="#section1">Jigsaw Puzzles</a></li>
-        <li><a href="#section2">Board Games</a></li>
-        <li><a href="#section3">Ephemera</a></li>
+        <li><a href="section-1">Jigsaw Puzzles</a></li> <li><a href="section-2">Board Games</a></li> <li><a href="section-3">Ephemera</a></li>
     </ul>
 </div>
 
