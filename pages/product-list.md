@@ -9,7 +9,9 @@ permalink: /products.html
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
 #### Number of Identified Products: 94
 
-[![My Button](https://i.imgur.com/QxpzgvZ.png)](https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing)
+<a href="https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing">
+  <img src="https://i.imgur.com/QxpzgvZ.png" alt="Click me!" width="75" height="75">
+</a>
 
 ---
 ## Jigsaw Puzzles
