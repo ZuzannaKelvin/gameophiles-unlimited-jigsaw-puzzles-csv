@@ -61,24 +61,6 @@ permalink: /products.html
         </ul>
     </div>
 
-    <!-- Content -->
-    <div>
-        <section id="section-1">
-            <h2>Section 1</h2>
-            <p>This is the content of Section 1. It's the first section.</p>
-        </section>
-
-        <section id="section-2">
-            <h2>Section 2</h2>
-            <p>This is the content of Section 2. It's the second section.</p>
-        </section>
-
-        <section id="section-3">
-            <h2>Section 3</h2>
-            <p>This is the content of Section 3. It's the third section.</p>
-        </section>
-    </div>
-
 </body>
 </html>
 
