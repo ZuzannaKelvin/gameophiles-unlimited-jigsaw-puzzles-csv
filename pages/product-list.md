@@ -14,8 +14,10 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 </a>
 
 ---
-## Jigsaw Puzzles 
-![Alt text](https://i.imgur.com/U0jQfti.png)
+
+<h2 style="display: inline; margin-right: 10px;">Jigsaw Puzzles</h2>
+<img src="https://i.imgur.com/U0jQfti.png" alt="Image" width="50" style="display: inline;">
+
 ---
 
 ### Maps
@@ -147,8 +149,10 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7xxx - Merry Old Santa Claus
 
 ---
-## Board Games
-![Alt text](https://i.imgur.com/yhOzio4.png)
+
+<h2 style="display: inline; margin-right: 10px;">Board Games</h2>
+<img src="https://i.imgur.com/yhOzio4.png" alt="Image" width="50" style="display: inline;">
+
 ---
 
 ##### 1973
