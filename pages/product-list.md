@@ -15,7 +15,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ---
 
-<img src="https://i.imgur.com/U0jQfti.png" alt="Image" width="50" style="float: left; margin-right: 10px;">
+<img src="https://i.imgur.com/U0jQfti.png" alt="Image" width="40" style="float: middle; margin-right: 10px;">
 <h2 style="display: inline; vertical-align: middle;">Jigsaw Puzzles</h2>
 
 ---
@@ -150,8 +150,8 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ---
 
-<h2 style="display: inline; margin-right: 10px;">Board Games</h2>
-<img src="https://i.imgur.com/yhOzio4.png" alt="Image" width="50" style="display: inline;">
+<img src="https://i.imgur.com/yhOzio4.png" alt="Image" width="40" style="float: middle; margin-right: 10px;">
+<h2 style="display: inline; vertical-align: middle;">Board Games</h2>
 
 ---
 
