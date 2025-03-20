@@ -18,8 +18,13 @@ body {
     position: sticky;
     top: 10px; /* Sticks when scrolling */
     z-index: 1000; /* Keeps it above other elements */
-    opacity: 1; /* Full opacity by default */
-    transition: opacity 0.5s ease; /* Smooth transition for opacity changes */
+    opacity: 1; /* Fully opaque by default */
+    transition: opacity 0.3s ease; /* Smooth transition for opacity changes */
+}
+
+/* Ensure TOC is fully opaque on hover */
+.toc:hover {
+    opacity: 1;
 }
 
 /* Center the heading */
@@ -42,7 +47,7 @@ body {
 /* Add "Contents:" label */
 .toc ul::before {
     content: "Contents:";
-    font-weight: normal;
+    font-weight: none;
     font-size: 16px;
     margin-right: 15px; /* Space between label and items */
 }
@@ -57,10 +62,10 @@ body {
     text-decoration: none;
     color: #181818;
     font-size: 16px;
-    font-weight: normal;
+    font-weight: none;
 }
 
-/* Hover effect to restore full opacity */
-.toc:hover {
-    opacity: 1;
+/* Change link color on hover */
+.toc a:hover {
+    color: #749f57;
 }

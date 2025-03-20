@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     tocLinks.forEach(link => {
         link.addEventListener('click', function() {
-            // After clicking a TOC link, set the TOC opacity to 0.2
+            // Set TOC opacity to 20% after clicking a link
             toc.style.opacity = '0.2';
         });
     });
