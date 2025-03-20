@@ -17,7 +17,7 @@ body {
 
     /* Center TOC */
     margin: 20px auto; /* Auto centers horizontally */
-    scroll-margin-top: 100px;
+
 
     /* Make TOC sticky */
     position: sticky;
@@ -29,6 +29,10 @@ body {
 
 .scroll-container {
     scroll-padding-top: 150px; /* Adjust this value based on your header's height */
+}
+
+h2 {
+    scroll-margin-top: 100px; /* Adjust this value based on your header's height */
 }
 
 /* Center the heading */
