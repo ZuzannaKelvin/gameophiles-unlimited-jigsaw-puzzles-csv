@@ -8,10 +8,10 @@ body {
 .toc {
     position: -webkit-sticky; /* For Safari */
     position: sticky;         /* Sticky position for scrolling */
-    top: 10px;                /* Offset when the TOC becomes sticky */
-    width: 450px;             /* Set width of the TOC box */
-    background-color: #fdfdfd;
-    padding: 8px;            /* Reduced vertical padding to make the box thinner vertically */
+    top: 20px;                /* Offset when the TOC becomes sticky */
+    width: 300px;             /* Set a fixed width for the TOC */
+    background-color: #f4f4f4;
+    padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     z-index: 10;              /* Ensures the TOC stays on top */
@@ -25,30 +25,28 @@ body {
 }
 
 .toc ul {
-    display: flex;                  /* Activate Flexbox */
-    flex-direction: row;            /* Arrange items in a row */
-    justify-content: space-around;   /* Adjusted for a bit less spacing */
-    padding-left: 0;
+    display: flex;           /* Activate Flexbox */
+    flex-direction: row;     /* Arrange the items in a row */
+    justify-content: space-between; /* Distribute items with equal space between them */
+    padding-left: 0;         
     margin: 0;
-    list-style-type: none;           /* Remove default list styling */
+    list-style-type: none;    /* Remove default list styling */
 }
 
 .toc li {
-    margin: 0;                      /* Remove margin between list items */
+    margin: 0;               /* Remove margin between list items */
 }
 
 .toc a {
     text-decoration: none;
     color: #7a7c7a;
-    font-size: 16px;                 /* Adjust font size */
+    font-size: 16px;          /* Adjust font size for better appearance in row */
     display: block;
-    text-align: center;             /* Center text within each link */
-    min-width: 90px;                /* Keep the min-width to avoid squashing */
-    padding: 2px 0;                 /* Reduced vertical padding for less space between links */
+    text-align: center;      /* Center text within each link */
 }
 
 .toc a:hover {
-    color: #749f57;
+    color: #09ec09;
 }
 
 /* Styles for content sections */
@@ -58,11 +56,11 @@ body {
 }
 
 section {
-    margin-bottom: 30px; /* Adds space between sections */
+    margin-bottom: 50px; /* Adds space between sections */
 }
 
 h2 {
-    color: #1d1d1d;
+    color: #333;
 }
 
 /* Sticky TOC behavior */
@@ -72,4 +70,3 @@ h2 {
     left: 0px;
     width: 0px;
 }
-
