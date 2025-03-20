@@ -9,7 +9,7 @@ body {
 .toc {
     width: 60%; /* Adjust width as needed */
     max-width: 600px;
-    background-color: #f4f4f4;
+    background-color: #fbfbfb;
     padding: 10px 20px; /* Reduced vertical padding */
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -44,7 +44,7 @@ body {
 /* Add "Contents:" label */
 .toc ul::before {
     content: "Contents:";
-    font-weight: bold;
+    font-weight: none;
     margin-right: 15px; /* Space between label and items */
 }
 
@@ -56,11 +56,11 @@ body {
 /* TOC Links */
 .toc a {
     text-decoration: none;
-    color: #7a7c7a;
-    font-size: 18px;
-    font-weight: bold;
+    color: #181818;
+    font-size: 16px;
+    font-weight: none;
 }
 
 .toc a:hover {
-    color: #09ec09;
+    color: #749f57;
 }
