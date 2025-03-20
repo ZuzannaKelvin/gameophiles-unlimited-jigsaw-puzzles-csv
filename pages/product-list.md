@@ -9,13 +9,6 @@ permalink: /products.html
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sticky Table of Contents</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            padding: 20px;
-            display: flex;
-            justify-content: space-between;
-        }
 
         /* Sticky Table of Contents */
         .toc {
