@@ -25,19 +25,24 @@ body {
 }
 
 .toc ul {
-    list-style-type: none;
-    padding-left: 0;
+    display: flex;           /* Activate Flexbox */
+    flex-direction: row;     /* Arrange the items in a row */
+    justify-content: space-between; /* Distribute items with equal space between them */
+    padding-left: 0;         
     margin: 0;
+    list-style-type: none;    /* Remove default list styling */
 }
 
 .toc li {
-    margin-bottom: 10px;
+    margin: 0;               /* Remove margin between list items */
 }
 
 .toc a {
     text-decoration: none;
     color: #7a7c7a;
-    font-size: 20px;
+    font-size: 16px;          /* Adjust font size for better appearance in row */
+    display: block;
+    text-align: center;      /* Center text within each link */
 }
 
 .toc a:hover {
