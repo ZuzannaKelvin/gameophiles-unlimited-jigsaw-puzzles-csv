@@ -4,12 +4,13 @@ layout: page
 permalink: /products.html
 ---
 
-[![My Button](https://dabuttonfactory.com/button.png?t=Google+Sheets+List&f=Calibri-Bold&ts=26&tc=fff&tshs=1&tshc=969d96&hp=45&vp=22&c=round&bgt=gradient&bgc=3d5d15&ebgc=90a587&shs=1&shc=ccc&sho=s)](https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing)
-
 # Product List
 ---
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
 #### Number of Identified Products: 94
+
+[![My Button](https://dabuttonfactory.com/button.png?t=Google+Sheets+List&f=Calibri-Bold&ts=26&tc=fff&tshs=1&tshc=969d96&hp=45&vp=22&c=round&bgt=gradient&bgc=3d5d15&ebgc=90a587&shs=1&shc=ccc&sho=s)](https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing)
+
 ---
 ## Jigsaw Puzzles
 ---
