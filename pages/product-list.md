@@ -9,7 +9,8 @@ permalink: /products.html
 <script src="pages/sticky.js"></script>
     <h4>Table of Contents</h6>
     <ul>
-        <li><a href="section-1">Jigsaw Puzzles</a></li><li><a href="section-2">Board Games</a></li>
+        <li><a href="section-1">Jigsaw Puzzles</a></li>
+        <li><a href="section-2">Board Games</a></li>
         <li><a href="section-3">Ephemera</a></li>
     </ul>
 </div>
