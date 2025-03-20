@@ -4,7 +4,6 @@ layout: page
 permalink: /products.html
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,29 +22,6 @@ permalink: /products.html
             <li><a href="#section3">Section 3</a></li>
             <li><a href="#section4">Section 4</a></li>
         </ul>
-    </div>
-
-    <!-- Main content sections -->
-    <div class="content">
-        <section id="section1">
-            <h2>Section 1</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet arcu ante.</p>
-        </section>
-
-        <section id="section2">
-            <h2>Section 2</h2>
-            <p>Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
-        </section>
-
-        <section id="section3">
-            <h2>Section 3</h2>
-            <p>Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris.</p>
-        </section>
-
-        <section id="section4">
-            <h2>Section 4</h2>
-            <p>Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.</p>
-        </section>
     </div>
 
     <script src="script.js"></script>
