@@ -27,7 +27,8 @@ body {
     flex-direction: row;
     flex-wrap: wrap; 
     justify-content: center;
-    align-items: center;    /* Arrange items horizontally (left to right) */
+    align-items: center;
+    align-content: space-between;    /* Arrange items horizontally (left to right) */
     list-style-type: none;   /* Remove default list styling */
     padding-left: 10px;         /* Remove any left padding */
 }
