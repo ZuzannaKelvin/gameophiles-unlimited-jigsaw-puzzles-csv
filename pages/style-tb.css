@@ -31,6 +31,9 @@ body {
     align-content: space-between;    /* Arrange items horizontally (left to right) */
     list-style-type: none;   /* Remove default list styling */
     padding-left: 10px;         /* Remove any left padding */
+    .item {
+        flex-grow: 1; /* This item will grow to take up available space */
+      }
 }
 
 .toc li {
