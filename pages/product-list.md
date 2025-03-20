@@ -12,8 +12,10 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ### Maps
 ---
+
 ##### 1971
  - 7104 - New York City Subway Map
+
 ##### 1972
 - 7205 - Paris Subway Map
 - 7213 - Los Angeles Freeway System Map 
@@ -22,6 +24,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7216 - Delaware - Maryland - Virginia - West Virginia
 - 7217 - [New Jersey Road Map](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7217.html)
 - 7218 - Illinois Road Map
+
 ##### 1973
 - 7304 - [The Underground (London Subway Map)](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7304.html)
 - 7308 - Florida And The Islands Navigational Charts Map
@@ -44,6 +47,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7380 - San Francisco Road Map
 - 7381 - Washington DC Road Map
 - 7398 - MBTA Boston Subway Map
+
 ##### 1974
 - 7403 - Long Island Sound Navigational Charts Map
 - 7404 - Chesapeake Bay Navigational Charts Map
@@ -58,6 +62,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ### Movies
 ---
+
 ##### 1973
 - 7230 - MGM Fabulous Four “Gone With The Wind”
 - 7231 - MGM Fabulous Four “Doctor Zhivago”
@@ -67,6 +72,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ### Illustrations
 ---
+
 ##### 1973
 - 7341 - [Beatrix Potter's Jemima Puddle-Duck](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7341-150.html)
 - 7342 - [Beatrix Potter's Benjamin Bunny](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7342-150.html)
@@ -74,6 +80,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7344 - [Beatrix Potter's Tailor of Gloucester](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7344-150.html)
 - 7345 - [Beatrix Potter's Toad's Tea-Party](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7345-150.html)
 - 7346 - Beatrix Potter's Mr. Jeremy Fisher
+
 ##### 1974
 - 7420 - Beatrix Potter's Peter Rabbit
 - 7421 - Beatrix Potter's Roly-Poly Pudding
@@ -93,6 +100,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ### Hex Signs
 ---
+
 ##### 1974
 - 7426 - The Single Distlefink
 - 7427 - The Double Distlefink
@@ -103,22 +111,28 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ### Misc.
 ---
+
 ##### 1970
 - 70xx - Spiro Agnew Superman 1970 16" x 20" 500 Misc.
+
 ##### 1972
 - 7206 - The Sunday Times of London Crossword Puzzle
 - 7207 - Design Your Own Puzzle
+
 ##### 1973
 - 7302 - The Old Farmer's Almanac
 - 7303 - Form 1040 Individual Income Tax Return
 - 7356 - An-a-MAZE-ing
+
 ##### 1974
 - 7402 - The Masters Augusta National Golf Club Course
 - 7407 - 40 - Love (Tennis Court)
 - 7409 - The Red Menace
 - 7440 - Atlantic City Boardwalk
+
 ##### 1975
 - 7508 - Washington DC
+
 ##### Undated
 - 7xxx - Calendar
 - 7xxx - Maze - 6 feet Fold Out
@@ -127,16 +141,19 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 ---
 ## Board Games
 ---
+
 ##### 1973
 - 7352 - Pentagon: The Marble Game of the 70's
 - 7353 - Frustables
 - 7355 - Cornered but Undaunted
 - 73xx - Backgammon
+
 ##### 1974
 - 7470 - The Great City Game of London
 - 7474 - Coloration
 - 74xx - Front Page
 - 74xx - Police State - A Game of Strategy and Survival for 2-6 Players
+
 ##### Undated
 - 7xxx - Chicagoan Game
 ---
