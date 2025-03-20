@@ -17,6 +17,7 @@ body {
 
     /* Center TOC */
     margin: 20px auto; /* Auto centers horizontally */
+    scroll-margin-top: 60px;
 
     /* Make TOC sticky */
     position: sticky;
