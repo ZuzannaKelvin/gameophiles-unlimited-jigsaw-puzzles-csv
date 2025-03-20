@@ -14,7 +14,8 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 </a>
 
 ---
-## Jigsaw Puzzles
+## Jigsaw Puzzles 
+![Alt text](https://i.imgur.com/U0jQfti.png)
 ---
 
 ### Maps
@@ -147,6 +148,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ---
 ## Board Games
+![Alt text](https://i.imgur.com/yhOzio4.png)
 ---
 
 ##### 1973
