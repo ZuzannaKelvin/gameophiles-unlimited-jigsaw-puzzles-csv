@@ -11,7 +11,7 @@ permalink: /products.html
 <script src="pages/sticky.js"></script>
 
 <ul>
-        <li><a href="#section-1">Jigsaw Puzzles</a></li>  |  <li><a href="#section-2">Board Games</a></li> | <li><a href="#section-3">Ephemera</a></li>
+        <li><a href="#section-1">Jigsaw Puzzles</a></li> | <li><a href="#section-2">Board Games</a></li> | <li><a href="#section-3">Ephemera</a></li>
 </ul>
 </div>
 
