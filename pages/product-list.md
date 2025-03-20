@@ -4,11 +4,10 @@ layout: page
 permalink: /products.html
 ---
 
-## Table of Contents
 <div class="toc" id="toc">
 <link rel="stylesheet" href="pages/style-tb.css">
 <script src="pages/sticky.js"></script>
-    <h2>Table of Contents</h2>
+    <h4>Table of Contents</h4>
     <ul>
         <li><a href="#section1">Jigsaw Puzzles</a></li>
         <li><a href="#section2">Board Games</a></li>
