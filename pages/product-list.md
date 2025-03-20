@@ -7,7 +7,7 @@ permalink: /products.html
 # Table of Contents
 
 1. [Jigsaw Puzzles](<h2>BJigsaw Puzzles<h2>)
-2. [Board Games](<h2>Board Games<h2>)
+2. [Board Games](##Board Games<)
 
 # Product List
 ---
@@ -20,6 +20,10 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 <img src="https://i.imgur.com/U0jQfti.png" alt="Image" width="35" style="float: left; margin-right: 10px;">
 <h2 style="display: inline; vertical-align: middle;">Jigsaw Puzzles</h2>
+
+<img src="https://i.imgur.com/U0jQfti.png" alt="Image" width="35" style="float: left; margin-right: 10px;">
+<h2 style="display: inline; vertical-align: middle;">Jigsaw Puzzles</h2>
+<h2 id="section-1">Section 1</h2>
 
 ---
 
