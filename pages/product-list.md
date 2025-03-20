@@ -4,29 +4,38 @@ layout: page
 permalink: /products.html
 ---
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sticky Table of Contents</title>
-    <link rel="stylesheet" href="style-tb.css">
-</head>
-<body>
+## Table of Contents
+<div class="toc" id="toc">
+<link rel="stylesheet" href="pages/style-tb.css">
+<script src="pages/sticky.js"></script>
+    <h2>Table of Contents</h2>
+    <ul>
+        <li><a href="#section1">Section 1</a></li>
+        <li><a href="#section2">Section 2</a></li>
+        <li><a href="#section3">Section 3</a></li>
+        <li><a href="#section4">Section 4</a></li>
+    </ul>
+</div>
 
-    <!-- Table of Contents -->
-    <div class="toc" id="toc">
-        <h2>Table of Contents</h2>
-        <ul>
-            <li><a href="#section1">Section 1</a></li>
-            <li><a href="#section2">Section 2</a></li>
-            <li><a href="#section3">Section 3</a></li>
-            <li><a href="#section4">Section 4</a></li>
-        </ul>
-    </div>
+---
 
-    <script src="sticky.js"></script>
-</body>
-</html>
+## Section 1 {#section1}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet arcu ante.
+
+---
+
+## Section 2 {#section2}
+Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.
+
+---
+
+## Section 3 {#section3}
+Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris.
+
+---
+
+## Section 4 {#section4}
+Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.
 
 # Table of Contents
 
