@@ -9,13 +9,11 @@ permalink: /products.html
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
 #### Number of Identified Products: 94
 
-<a href="https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing">
-  <img src="https://i.imgur.com/QxpzgvZ.png" alt="Click me!" width="40" height="40">
-</a>
+[Google Sheets List](https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing)
 
 ---
 
-<img src="https://i.imgur.com/U0jQfti.png" alt="Image" width="40" style="float: left; margin-right: 10px;">
+<img src="https://i.imgur.com/U0jQfti.png" alt="Image" width="35" style="float: left; margin-right: 10px;">
 <h2 style="display: inline; vertical-align: middle;">Jigsaw Puzzles</h2>
 
 ---
@@ -150,7 +148,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ---
 
-<img src="https://i.imgur.com/yhOzio4.png" alt="Image" width="40" style="float: left; margin-right: 10px;">
+<img src="https://i.imgur.com/yhOzio4.png" alt="Image" width="35" style="float: left; margin-right: 10px;">
 <h2 style="display: inline; vertical-align: middle;">Board Games</h2>
 
 ---
