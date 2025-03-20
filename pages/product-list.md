@@ -1,6 +1,6 @@
 ---
 title: Product List
-layout: page
+layout: page2
 permalink: /products.html
 ---
 
