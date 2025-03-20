@@ -8,9 +8,9 @@ body {
 .toc {
     position: -webkit-sticky; /* For Safari */
     position: sticky;         /* Sticky position for scrolling */
-    top: 20px;                /* Offset when the TOC becomes sticky */
+    top: 10px;                /* Offset when the TOC becomes sticky */
     width: 400px;             /* Set width of the TOC box */
-    background-color: #f4f4f4;
+    background-color: #f9f9f9;
     padding: 10px;            /* Reduced vertical padding to make the box thinner vertically */
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -48,7 +48,7 @@ body {
 }
 
 .toc a:hover {
-    color: #09ec09;
+    color: #749f57;
 }
 
 /* Styles for content sections */
@@ -58,11 +58,11 @@ body {
 }
 
 section {
-    margin-bottom: 50px; /* Adds space between sections */
+    margin-bottom: 30px; /* Adds space between sections */
 }
 
 h2 {
-    color: #333;
+    color: #1d1d1d;
 }
 
 /* Sticky TOC behavior */
