@@ -1,8 +1,36 @@
 ---
 title: Product List
-layout: page2
+layout: page
 permalink: /products.html
 ---
+
+# Table of Contents
+
+1. [Section 1](#section-1)
+2. [Section 2](#section-2)
+3. [Section 3](#section-3)
+4. [Section 4](#section-4)
+
+---
+
+## Section 1
+This is the content of Section 1.
+
+---
+
+## Section 2
+This is the content of Section 2.
+
+---
+
+## Section 3
+This is the content of Section 3.
+
+---
+
+## Section 4
+This is the content of Section 4.
+
 
 # Product List
 ---
