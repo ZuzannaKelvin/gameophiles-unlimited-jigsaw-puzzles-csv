@@ -6,31 +6,8 @@ permalink: /products.html
 
 # Table of Contents
 
-1. [Section 1](#section-1)
-2. [Section 2](#section-2)
-3. [Section 3](#section-3)
-4. [Section 4](#section-4)
-
----
-
-## Section 1
-This is the content of Section 1.
-
----
-
-## Section 2
-This is the content of Section 2.
-
----
-
-## Section 3
-This is the content of Section 3.
-
----
-
-## Section 4
-This is the content of Section 4.
-
+1. [Jigsaw Puzzles](<h2>BJigsaw Puzzles<h2>)
+2. [Board Games](<h2>Board Games<h2>)
 
 # Product List
 ---
