@@ -21,14 +21,14 @@ body {
 
     /* Make TOC sticky */
     position: sticky;
-    top: 5px; /* Sticks when scrolling */
+    top: 10px; /* Sticks when scrolling */
     z-index: 1000; /* Keeps it above other elements */
 
     
 }
 
 .scroll-container {
-    scroll-padding-top: 60px; /* Adjust this value based on your header's height */
+    scroll-padding-top: 150px; /* Adjust this value based on your header's height */
 }
 
 /* Center the heading */
