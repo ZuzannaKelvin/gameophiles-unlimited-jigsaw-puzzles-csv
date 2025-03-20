@@ -9,8 +9,8 @@ body {
 .toc {
     position: sticky;
     top: 5px;
-    left: 5px;
-    width: 150px;
+    left: 100px;
+    width: 50px;
     background-color: #f4f4f4;
     padding: 20px;
     border-radius: 8px;
