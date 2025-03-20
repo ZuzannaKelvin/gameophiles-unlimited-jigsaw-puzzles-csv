@@ -9,11 +9,10 @@ permalink: /products.html
 <link rel="stylesheet" href="pages/style-tb.css">
 
 <script src="pages/sticky.js"></script>
-   
- <h6>Contents:</h6>
-    <ul>
-        <li><a href="#section-1">Jigsaw Puzzles</a></li> | <li><a href="#section-2">Board Games</a></li> | <li><a href="#section-3">Ephemera</a></li>
-    </ul>
+
+<ul>
+        <li><a href="#section-1">Jigsaw Puzzles</a></li>  |  <li><a href="#section-2">Board Games</a></li> | <li><a href="#section-3">Ephemera</a></li>
+</ul>
 </div>
 
 # Product List
