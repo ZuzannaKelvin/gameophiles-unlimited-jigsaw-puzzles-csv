@@ -24,7 +24,10 @@ body {
 
 .toc ul {
     display: flex;           /* Apply flexbox layout */
-    flex-direction: row;     /* Arrange items horizontally (left to right) */
+    flex-direction: row;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;    /* Arrange items horizontally (left to right) */
     list-style-type: none;   /* Remove default list styling */
     padding-left: 10px;         /* Remove any left padding */
 }
