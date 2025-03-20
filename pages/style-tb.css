@@ -8,14 +8,14 @@ body {
 /* Table of contents styles */
 .toc {
     position: sticky;
-    top: 5px;
-    left: 15px;
+    top: 0px;
+    left: 0px;
     width: 400px;
     background-color: #f4f4f4;
-    padding: 5px;
-    border-radius: 8px;
+    padding: 0px;
+    border-radius: 0px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    z-index: 100;
+    z-index: 0;
 }
 
 .toc h2 {
@@ -30,7 +30,7 @@ body {
     align-items: center;
     align-content: space-between;    
     list-style-type: none;   
-    padding-left: 50px;         
+    padding-left: 0px;         
 }
 
 .item {
@@ -53,12 +53,12 @@ body {
 
 /* Styles for content sections */
 .content {
-    margin-left: 240px;
-    padding: 40px;
+    margin-left: 0px;
+    padding: 0px;
 }
 
 section {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 h2 {
@@ -68,7 +68,7 @@ h2 {
 /* Sticky TOC on scroll */
 .sticky {
     position: fixed;
-    top: 5px;
-    left: 100px;
-    width: 300px;
+    top: 0px;
+    left: 0px;
+    width: 0px;
 }
