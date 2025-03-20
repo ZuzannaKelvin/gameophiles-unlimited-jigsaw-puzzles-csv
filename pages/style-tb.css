@@ -1,3 +1,4 @@
+/* Basic styles for the page */
 body {
     font-family: Garamond;
     margin: 0;
@@ -6,47 +7,48 @@ body {
 
 /* Table of contents styles */
 .toc {
-    position: -webkit-sticky; /* For Safari */
-    position: sticky;         /* Sticky position for scrolling */
-    top: 20px;                /* Offset when the TOC becomes sticky */
-    width: 300px;             /* Set a fixed width for the TOC */
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    width: 400px;
     background-color: #f4f4f4;
-    padding: 20px;
-    border-radius: 8px;
+    padding: 0px;
+    border-radius: 0px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    z-index: 10;              /* Ensures the TOC stays on top */
-    box-sizing: border-box;   /* Includes padding and border in width calculation */
-    margin: 0 auto;           /* This centers the TOC horizontally */
+    z-index: 0;
 }
 
 .toc h2 {
     margin-top: 0;
-    text-align: center;
 }
 
 .toc ul {
-    display: flex;           /* Activate Flexbox */
-    flex-direction: row;     /* Arrange the items in a row */
-    justify-content: space-between; /* Distribute items with equal space between them */
-    padding-left: 0;         
-    margin: 0;
-    list-style-type: none;    /* Remove default list styling */
+    display: flex;           /* Apply flexbox layout */
+    flex-direction: row;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;    
+    list-style-type: none;   
+    padding-left: 0px;         
 }
 
+.item {
+    flex-grow: 1; /* This item will grow to take up available space */
+  }
+
 .toc li {
-    margin: 0;               /* Remove margin between list items */
+    margin-bottom: 10px;
 }
 
 .toc a {
     text-decoration: none;
     color: #7a7c7a;
-    font-size: 16px;          /* Adjust font size for better appearance in row */
-    display: block;
-    text-align: center;      /* Center text within each link */
+    font-size: 20px;
 }
 
 .toc a:hover {
-    color: #09ec09;
+    color: #09ec09; /* Example: Change text color to tomato */
 }
 
 /* Styles for content sections */
@@ -56,14 +58,14 @@ body {
 }
 
 section {
-    margin-bottom: 50px; /* Adds space between sections */
+    margin-bottom: 0px;
 }
 
 h2 {
     color: #333;
 }
 
-/* Sticky TOC behavior */
+/* Sticky TOC on scroll */
 .sticky {
     position: fixed;
     top: 0px;
