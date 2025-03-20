@@ -10,7 +10,7 @@ body {
     position: sticky;
     top: 5px;
     left: 15px;
-    width: 500px;
+    width: 400px;
     background-color: #f4f4f4;
     padding: 5px;
     border-radius: 8px;
@@ -26,7 +26,7 @@ body {
     display: flex;           /* Apply flexbox layout */
     flex-direction: row;     /* Arrange items horizontally (left to right) */
     list-style-type: none;   /* Remove default list styling */
-    padding-left: 0;         /* Remove any left padding */
+    padding-left: 10px;         /* Remove any left padding */
 }
 
 .toc li {
@@ -50,7 +50,7 @@ body {
 }
 
 section {
-    margin-bottom: 60px;
+    margin-bottom: 10px;
 }
 
 h2 {
