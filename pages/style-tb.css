@@ -26,7 +26,6 @@ body {
     display: flex;              /* Activate Flexbox */
     justify-content: center;    /* Horizontally center */
     align-items: center;        /* Vertically center */
-    height: 100vh;              /* Full viewport height */        
 }
 
 .item {
