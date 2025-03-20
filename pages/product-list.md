@@ -82,7 +82,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7343 - [Beatrix Potter's Benjamin Bunny](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7343-150.html)
 - 7344 - [Beatrix Potter's Tailor of Gloucester](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7344-150.html)
 - 7345 - [Beatrix Potter's Toad's Tea-Party](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7345-150.html)
-- 7346 | Beatrix Potter's Mr. Jeremy Fisher
+- 7346 - Beatrix Potter's Mr. Jeremy Fisher
 
 #### 1974
 
@@ -147,8 +147,6 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7xxx - Maze - 6 feet Fold Out
 - 7xxx - Merry Old Santa Claus
 
----
-
 ## Board Games
 
 ---
@@ -169,6 +167,6 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 #### Undated
 
-- 7xxx | Chicagoan Game
+- 7xxx - Chicagoan Game
 
 ***
