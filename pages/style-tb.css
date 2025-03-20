@@ -3,141 +3,59 @@ body {
     font-family: Garamond;
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centers everything */
 }
 
-/* Table of contents styles */
+/* Centered Table of Contents */
 .toc {
-<<<<<<< HEAD
-    position: sticky;
-    top: 0px;
-    left: 0px;
-    width: 400px;
-    background-color: #f4f4f4;
-    padding: 0px;
-    border-radius: 0px;
-=======
-    position: -webkit-sticky; /* For Safari */
-    position: sticky;         /* Sticky position for scrolling */
-<<<<<<< HEAD
-    top: 10px;                /* Offset when the TOC becomes sticky */
-    width: 450px;             /* Set width of the TOC box */
-    background-color: #fdfdfd;
-    padding: 8px;            /* Reduced vertical padding to make the box thinner vertically */
-=======
-    top: 20px;                /* Offset when the TOC becomes sticky */
-    width: 300px;             /* Set a fixed width for the TOC */
-    background-color: #f4f4f4;
+    width: 60%; /* Adjust width as needed */
+    max-width: 600px;
+    background-color: #fcfcfc;
     padding: 20px;
->>>>>>> parent of a6c5ad2 (Update style-tb.css)
     border-radius: 8px;
->>>>>>> parent of eeab622 (Update style-tb.css)
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    z-index: 0;
+    box-shadow: 0 2px 10px rgba(77, 77, 77, 0.1);
+    text-align: center;
+    margin-top: 20px; /* Space from top */
 }
 
+/* Center the heading */
 .toc h2 {
+    text-align: center;
     margin-top: 0;
 }
 
+/* Flexbox for TOC list */
 .toc ul {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    display: flex;           /* Apply flexbox layout */
-    flex-direction: row;
-    flex-wrap: wrap; 
+    display: flex;
     justify-content: center;
-    align-items: center;
-    align-content: space-between;    
-    list-style-type: none;   
-    padding-left: 0px;         
-=======
-    display: flex;                  /* Activate Flexbox */
-    flex-direction: row;            /* Arrange items in a row */
-    justify-content: space-around;   /* Adjusted for a bit less spacing */
+    flex-wrap: wrap; /* Allows wrapping if items are too wide */
     padding-left: 0;
     margin: 0;
-    list-style-type: none;           /* Remove default list styling */
->>>>>>> parent of eeab622 (Update style-tb.css)
-=======
-    display: flex;           /* Activate Flexbox */
-    flex-direction: row;     /* Arrange the items in a row */
-    justify-content: space-between; /* Distribute items with equal space between them */
-    padding-left: 0;         
-    margin: 0;
-    list-style-type: none;    /* Remove default list styling */
->>>>>>> parent of a6c5ad2 (Update style-tb.css)
+    list-style-type: none;
 }
 
-.item {
-    flex-grow: 1; /* This item will grow to take up available space */
-  }
-
+/* Style TOC items */
 .toc li {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    margin-bottom: 10px;
-=======
-    margin: 0;                      /* Remove margin between list items */
->>>>>>> parent of eeab622 (Update style-tb.css)
-=======
-    margin: 0;               /* Remove margin between list items */
->>>>>>> parent of a6c5ad2 (Update style-tb.css)
+    margin: 0 15px; /* Space between items */
 }
 
+/* TOC Links */
 .toc a {
     text-decoration: none;
-    color: #7a7c7a;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    font-size: 20px;
-=======
-    font-size: 16px;          /* Adjust font size for better appearance in row */
-    display: block;
-    text-align: center;      /* Center text within each link */
->>>>>>> parent of a6c5ad2 (Update style-tb.css)
-}
-
-.toc a:hover {
-    color: #09ec09; /* Example: Change text color to tomato */
-=======
-    font-size: 16px;                 /* Adjust font size */
-    display: block;
-    text-align: center;             /* Center text within each link */
-    min-width: 90px;                /* Keep the min-width to avoid squashing */
-    padding: 2px 0;                 /* Reduced vertical padding for less space between links */
+    color: #252525;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .toc a:hover {
     color: #749f57;
->>>>>>> parent of eeab622 (Update style-tb.css)
 }
 
-/* Styles for content sections */
+/* Content Styles */
 .content {
-    margin-left: 0px;
-    padding: 0px;
+    width: 80%;
+    max-width: 800px;
+    margin-top: 30px;
 }
-
-section {
-<<<<<<< HEAD
-    margin-bottom: 0px;
-=======
-    margin-bottom: 30px; /* Adds space between sections */
->>>>>>> parent of eeab622 (Update style-tb.css)
-}
-
-h2 {
-    color: #1d1d1d;
-}
-
-/* Sticky TOC on scroll */
-.sticky {
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    width: 0px;
-}
-<<<<<<< HEAD
-=======
-
->>>>>>> parent of eeab622 (Update style-tb.css)
