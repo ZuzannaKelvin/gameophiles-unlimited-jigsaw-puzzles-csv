@@ -14,25 +14,12 @@ body {
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-
-    /* Center TOC */
     margin: 20px auto; /* Auto centers horizontally */
-
-
-    /* Make TOC sticky */
     position: sticky;
     top: 10px; /* Sticks when scrolling */
     z-index: 1000; /* Keeps it above other elements */
-
-    
-}
-
-.scroll-container {
-    scroll-padding-top: 150px; /* Adjust this value based on your header's height */
-}
-
-h2 {
-    scroll-margin-top: 30px; /* Adjust this value based on your header's height */
+    opacity: 1; /* Full opacity by default */
+    transition: opacity 0.5s ease; /* Smooth transition for opacity changes */
 }
 
 /* Center the heading */
@@ -55,7 +42,7 @@ h2 {
 /* Add "Contents:" label */
 .toc ul::before {
     content: "Contents:";
-    font-weight: none;
+    font-weight: normal;
     font-size: 16px;
     margin-right: 15px; /* Space between label and items */
 }
@@ -70,9 +57,10 @@ h2 {
     text-decoration: none;
     color: #181818;
     font-size: 16px;
-    font-weight: none;
+    font-weight: normal;
 }
 
-.toc a:hover {
-    color: #749f57;
+/* Hover effect to restore full opacity */
+.toc:hover {
+    opacity: 1;
 }
