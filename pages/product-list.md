@@ -160,3 +160,5 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7xxx - Chicagoan Game
 
 ---
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQt2WluiXAnualWVL6d-zURMjthDYUmyLy2vVn0Skym2ezdAZrrio1Y3hrxONOzMco5r0zXh0eBzq32/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
