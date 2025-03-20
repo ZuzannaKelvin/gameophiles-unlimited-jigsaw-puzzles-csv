@@ -9,7 +9,7 @@ body {
     position: -webkit-sticky; /* For Safari */
     position: sticky;         /* Sticky position for scrolling */
     top: 20px;                /* Offset when the TOC becomes sticky */
-    width: 300px;             /* Set a fixed width for the TOC */
+    width: 500px;             /* Increased width for more space */
     background-color: #f4f4f4;
     padding: 20px;
     border-radius: 8px;
@@ -25,24 +25,26 @@ body {
 }
 
 .toc ul {
-    display: flex;           /* Activate Flexbox */
-    flex-direction: row;     /* Arrange the items in a row */
-    justify-content: space-between; /* Distribute items with equal space between them */
-    padding-left: 0;         
+    display: flex;                  /* Activate Flexbox */
+    flex-direction: row;            /* Arrange items in a row */
+    justify-content: space-evenly;   /* Evenly space out the items */
+    padding-left: 0;
     margin: 0;
-    list-style-type: none;    /* Remove default list styling */
+    list-style-type: none;           /* Remove default list styling */
 }
 
 .toc li {
-    margin: 0;               /* Remove margin between list items */
+    margin: 0;                      /* Remove margin between list items */
 }
 
 .toc a {
     text-decoration: none;
     color: #7a7c7a;
-    font-size: 16px;          /* Adjust font size for better appearance in row */
+    font-size: 16px;                 /* Adjust font size */
     display: block;
-    text-align: center;      /* Center text within each link */
+    text-align: center;             /* Center text within each link */
+    min-width: 100px;               /* Ensure each item has a minimum width */
+    padding: 5px 0;                 /* Add vertical padding for better clickability */
 }
 
 .toc a:hover {
