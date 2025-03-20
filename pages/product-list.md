@@ -4,7 +4,6 @@ layout: page
 permalink: /products.html
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
