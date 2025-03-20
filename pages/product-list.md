@@ -15,8 +15,8 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ---
 
-<h2 style="display: inline; margin-right: 10px;">Jigsaw Puzzles</h2>
-<img src="https://i.imgur.com/U0jQfti.png" alt="Image" width="50" style="display: inline;">
+<img src="https://i.imgur.com/U0jQfti.png" alt="Image" width="50" style="display: inline; vertical-align: middle; margin-right: 10px;">
+<h2 style="display: inline; vertical-align: middle;">Jigsaw Puzzles</h2>
 
 ---
 
