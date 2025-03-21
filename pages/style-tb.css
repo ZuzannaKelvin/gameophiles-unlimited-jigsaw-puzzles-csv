@@ -18,7 +18,7 @@ body {
     position: sticky;
     top: 10px; /* Sticks when scrolling */
     z-index: 1000; /* Keeps it above other elements */
-    
+
 }
 
 .scroll-container {
@@ -26,7 +26,7 @@ body {
 }
 
 h2 {
-    scroll-margin-top: 50px; /* Adjust this value based on your header's height */
+    scroll-margin-top: 30px; /* Adjust this value based on your header's height */
 }
 
 /* Center the heading */
