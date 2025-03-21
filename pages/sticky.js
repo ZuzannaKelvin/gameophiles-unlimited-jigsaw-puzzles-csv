@@ -22,17 +22,3 @@ document.querySelectorAll('.toc a').forEach(anchor => {
         });
     });
 });
-
-document.addEventListener('DOMContentLoaded', function() {
-    // Select all TOC links
-    const tocLinks = document.querySelectorAll('.toc a');
-    // Select the TOC container
-    const toc = document.querySelector('.toc');
-
-    tocLinks.forEach(link => {
-        link.addEventListener('click', function() {
-            // Set TOC opacity to 20% after clicking a link
-            toc.style.opacity = '0.2';
-        });
-    });
-});

@@ -18,8 +18,7 @@ body {
     position: sticky;
     top: 10px; /* Sticks when scrolling */
     z-index: 1000; /* Keeps it above other elements */
-    opacity: 1; /* Fully opaque by default */
-    transition: opacity 0.3s ease; /* Smooth transition for opacity changes */
+    
 }
 
 .scroll-container {
