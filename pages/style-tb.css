@@ -17,7 +17,7 @@ body {
     margin: 20px auto; /* Auto centers horizontally */
     position: sticky;
     top: 10px; /* Sticks when scrolling */
-    z-index: 1000; /* Keeps it above other elements */
+    z-index: 10; /* Keeps it above other elements */
 
 }
 
