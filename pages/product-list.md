@@ -18,7 +18,7 @@ permalink: /products.html
 # Product List
 ---
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
-#### Number of Identified Products: 95
+#### Number of Identified Products: 96
 
 [Google Sheets List](https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing)
 
@@ -167,6 +167,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 ---
 
 ##### 1973
+- 7351 - Emote
 - 7352 - [Pentagon: The Marble Game of the 70's](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7352.html)
 - 7353 - Frustables
 - 7355 - Cornered but Undaunted
