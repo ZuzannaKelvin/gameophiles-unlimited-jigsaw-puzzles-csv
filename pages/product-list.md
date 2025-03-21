@@ -47,7 +47,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 ##### 1973
 - 7304 - [The Underground (London Subway Map)](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7304.html)
 - 7308 - Florida And The Islands Navigational Charts Map
-- 7309 - New England Navigational Charts Map
+- 7309 - [New England Navigational Charts Map](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7309.html)
 - 7315 - Ohio Road Map
 - 7316 - Pennsylvania Road Map
 - 7317 - New York State Road Map
@@ -98,12 +98,12 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7343 - [Beatrix Potter's Benjamin Bunny](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7343-150.html)
 - 7344 - [Beatrix Potter's Tailor of Gloucester](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7344-150.html)
 - 7345 - [Beatrix Potter's Toad's Tea-Party](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7345-150.html)
-- 7346 - Beatrix Potter's Mr. Jeremy Fisher
+- 7346 - [Beatrix Potter's Mr. Jeremy Fisher](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7346-150.html)
 
 ##### 1974
 - 7420 - Beatrix Potter's Peter Rabbit
 - 7421 - Beatrix Potter's Roly-Poly Pudding
-- 7422 - Beatrix Potter's Squirrel Nutkin
+- 7422 - [Beatrix Potter's Squirrel Nutkin](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7422-150.html)
 - 7423 - Beatrix Potter's Two Bad Mice
 - 7424 - Beatrix Potter's Peter Rabbit
 - 7425 - Beatrix Potter's Mrs. Tiggy-Winkle
@@ -165,7 +165,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 ---
 
 ##### 1973
-- 7352 - Pentagon: The Marble Game of the 70's
+- 7352 - [Pentagon: The Marble Game of the 70's](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7352.html)
 - 7353 - Frustables
 - 7355 - Cornered but Undaunted
 - 73xx - Backgammon
