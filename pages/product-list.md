@@ -18,7 +18,7 @@ permalink: /products.html
 # Product List
 ---
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
-#### Number of Identified Products: 97
+#### Number of Identified Products: 99
 
 [Google Sheets List](https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing)
 
@@ -166,6 +166,9 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ---
 
+##### 1971
+- 71xx - New Town - (Marketed by Harwell Associates & Gameophiles Unlimited, Inc)
+
 ##### 1973
 - 7351 - Emote
 - 7352 - [Pentagon: The Marble Game of the 70's](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7352.html)
@@ -179,6 +182,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7476 - You've Got to be Kidding
 - 74xx - Front Page
 - 74xx - The Great City Game of Paris
+- 74xx - The Great City Game of Rome
 - 74xx - Police State - A Game of Strategy and Survival for 2-6 Players
 
 ##### Undated
