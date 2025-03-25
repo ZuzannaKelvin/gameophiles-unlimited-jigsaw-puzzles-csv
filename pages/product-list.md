@@ -134,7 +134,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 ---
 
 ##### 1970
-- 70xx - Spiro Agnew Superman 1970 16" x 20" 500 Misc.
+- 70xx - Spiro Agnew Superman
 
 ##### 1972
 - 7206 - The Sunday Times of London Crossword Puzzle
