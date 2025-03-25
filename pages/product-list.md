@@ -95,26 +95,26 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 ---
 
 ##### 1973
-- 7341 - [Beatrix Potter's Jemima Puddle-Duck](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7341-150.html)
-- 7342 - [Beatrix Potter's Benjamin Bunny](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7342-150.html)
-- 7343 - [Beatrix Potter's Benjamin Bunny](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7343-150.html)
-- 7344 - [Beatrix Potter's Tailor of Gloucester](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7344-150.html)
-- 7345 - [Beatrix Potter's Toad's Tea-Party](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7345-150.html)
-- 7346 - [Beatrix Potter's Mr. Jeremy Fisher](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7346-150.html)
+- 7341 - [Beatrix Potter's Jemima Puddle-Duck](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7341.html)
+- 7342 - [Beatrix Potter's Benjamin Bunny](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7342.html)
+- 7343 - [Beatrix Potter's Benjamin Bunny](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7343.html)
+- 7344 - [Beatrix Potter's Tailor of Gloucester](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7344.html)
+- 7345 - [Beatrix Potter's Toad's Tea-Party](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7345.html)
+- 7346 - [Beatrix Potter's Mr. Jeremy Fisher](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7346.html)
 
 ##### 1974
 - 7420 - Beatrix Potter's Peter Rabbit
 - 7421 - Beatrix Potter's Roly-Poly Pudding
-- 7422 - [Beatrix Potter's Squirrel Nutkin](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7422-150.html)
+- 7422 - [Beatrix Potter's Squirrel Nutkin](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7422.html)
 - 7423 - Beatrix Potter's Two Bad Mice
 - 7424 - Beatrix Potter's Peter Rabbit
 - 7425 - Beatrix Potter's Mrs. Tiggy-Winkle
 - 7432 - Pawprints
 - 7433 - Pawprints
-- 7434 - [Pawprints](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7434-150.html) [Two in love turtles on a hammock.]
-- 7435 - [Pawprints](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7435-150.html) [Injured turtle on an armchair.]
+- 7434 - [Pawprints](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7434.html) [Two in love turtles on a hammock.]
+- 7435 - [Pawprints](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7435.html) [Injured turtle on an armchair.]
 - 7436 - Pawprints
-- 7437 - [Pawprints](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7437-150.html) [A mouse presenting a large, vibrant strawberry as a gift to another]
+- 7437 - [Pawprints](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7437.html) [A mouse presenting a large, vibrant strawberry as a gift to another]
 - 7441 - Pawprints
 - 7442 - Pawprints
 - 7443 - Pawprints
