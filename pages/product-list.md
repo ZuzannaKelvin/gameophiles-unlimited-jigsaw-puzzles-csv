@@ -18,7 +18,7 @@ permalink: /products.html
 # Product List
 ---
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
-#### Number of Identified Products: 100
+#### Number of Identified Products: 102
 
 [Google Sheets List](https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing)
 
@@ -159,6 +159,8 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7xxx - Maze - 6 feet Fold Out
 - 7xxx - Merry Old Santa Claus
 - 7xxx - Ecology Flag
+- xxxx - "Madras" Orange Crate Art
+- xxxx - "Blue Goose" Orange Crate Art
 
 ---
 
