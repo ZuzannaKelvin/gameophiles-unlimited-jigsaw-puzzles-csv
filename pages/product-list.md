@@ -18,7 +18,7 @@ permalink: /products.html
 # Product List
 ---
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
-#### Number of Identified Products: 102
+#### Number of Identified Products: 104
 
 [Google Sheets List](https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing)
 
@@ -150,9 +150,11 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7407 - 40 - Love (Tennis Court)
 - 7409 - The Red Menace
 - 7440 - Atlantic City Boardwalk
+- 7482 - Philadelphia "76" Bi-Centennial
 
 ##### 1975
 - 7508 - Washington DC
+- 7507 - New York City Skyline
 
 ##### Undated
 - 7xxx - Calendar
