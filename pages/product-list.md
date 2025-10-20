@@ -18,7 +18,7 @@ permalink: /products.html
 # Product List
 ---
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
-#### Number of Identified Products: 104
+#### Number of Identified Products: 107
 
 [Google Sheets List](https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing)
 
@@ -79,6 +79,9 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7481 - Houston Road Map
 - 74xx - United States Zip Code Map
 
+#### Undated
+- xxxx - Virgin Islands Navigational Chart
+
 ### Movies
 ---
 
@@ -118,6 +121,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7441 - Pawprints
 - 7442 - Pawprints
 - 7443 - Pawprints
+- 74xx - Pawprints
 
 ### Hex Signs
 ---
@@ -184,6 +188,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 ##### 1974
 - 7470 - The Great City Game of London
 - 7474 - Coloration
+- 7475 - The Connections
 - 7476 - You've Got to be Kidding
 - 74xx - Front Page
 - 74xx - The Great City Game of Paris
