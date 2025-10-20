@@ -124,7 +124,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 
 ##### 1974
 - 7426 - The Single Distlefink
-- 7427 - [The Double Distlefink] (Future Link)
+- 7427 - The Double Distlefink
 - 7428 - Wilkum
 - 7429 - Love, Romance & Marriage
 - 7430 - The Mighty Oak
