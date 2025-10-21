@@ -50,10 +50,10 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7309 - [New England Navigational Charts Map](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7309.html)
 - 7315 - Ohio Road Map
 - 7316 - Pennsylvania Road Map
-- 7317 - New York State Road Map
+- 7317 - [New York State Road Map](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7439.html)
 - 7318 - Texas Road Map
-- 7319 - Tokyo Subway Map
-- 7370 - Pittsburgh Road Map
+- 7319 - [Tokyo Subway Map](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7319.html)
+- 7370 - [Pittsburgh Road Map](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7370.html)
 - 7371 - Boston Road Map
 - 7372 - Atlanta Road Map
 - 7373 - Baltimore Road Map
@@ -62,13 +62,13 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7376 - Milwaukee Road Map
 - 7377 - Philadelphia Road Map
 - 7378 - St. Louis Road Map
-- 7379 - Minneapolis St. Paul Road Map
+- 7379 - [Minneapolis St. Paul Road Map](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7379.html)
 - 7380 - San Francisco Road Map
 - 7381 - Washington DC Road Map
 - 7398 - MBTA Boston Subway Map
 
 ##### 1974
-- 7403 - Long Island Sound Navigational Charts Map
+- 7403 - [Long Island Sound Navigational Charts Map](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7403.html)
 - 7404 - Chesapeake Bay Navigational Charts Map
 - 7405 - Moscow Subway Map
 - 7406 - Le Metro Montreal Subway Map
@@ -110,8 +110,8 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7421 - Beatrix Potter's Roly-Poly Pudding
 - 7422 - [Beatrix Potter's Squirrel Nutkin](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7422.html)
 - 7423 - Beatrix Potter's Two Bad Mice
-- 7424 - Beatrix Potter's Peter Rabbit
-- 7425 - Beatrix Potter's Mrs. Tiggy-Winkle
+- 7424 - [Beatrix Potter's Peter Rabbit](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7424.html)
+- 7425 - [Beatrix Potter's Mrs. Tiggy-Winkle](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7425.html)
 - 7432 - Pawprints
 - 7433 - Pawprints
 - 7434 - [Pawprints](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7434.html) [Two in love turtles on a hammock.]
@@ -145,7 +145,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7207 - Design Your Own Puzzle
 
 ##### 1973
-- 7302 - The Old Farmer's Almanac
+- 7302 - [The Old Farmer's Almanac](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7302.html)
 - 7303 - Form 1040 Individual Income Tax Return
 - 7356 - An-a-MAZE-ing
 
@@ -153,7 +153,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7402 - The Masters Augusta National Golf Club Course
 - 7407 - 40 - Love (Tennis Court)
 - 7409 - The Red Menace
-- 7440 - Atlantic City Boardwalk
+- 7440 - [Atlantic City Boardwalk](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7440.html)
 - 7482 - Philadelphia "76" Bi-Centennial
 
 ##### 1975
@@ -179,7 +179,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 71xx - New Town - (Marketed by Harwell Associates & Gameophiles Unlimited, Inc)
 
 ##### 1973
-- 7351 - Emote
+- 7351 - [Emote](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7351.html)
 - 7352 - [Pentagon: The Marble Game of the 70's](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7352.html)
 - 7353 - Frustables
 - 7355 - Cornered but Undaunted
