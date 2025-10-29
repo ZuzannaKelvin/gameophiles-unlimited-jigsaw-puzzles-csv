@@ -18,7 +18,7 @@ permalink: /products.html
 # Product List
 ---
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
-#### Number of Identified Products: 107
+#### Number of Identified Products: 108
 
 [Google Sheets List](https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing)
 
@@ -92,6 +92,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7233 - MGM Fabulous Four “Rayan's Daughter”
 
 ##### 1973
+- 7396 - “Tom Sawyer”
 - 7397 - “Fiddler on the Roof”
 
 ### Illustrations
