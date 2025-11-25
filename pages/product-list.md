@@ -18,7 +18,7 @@ permalink: /products.html
 # Product List
 ---
 This page presents a comprehensive list of products produced by **Gameophiles Unlimited** between 1970 and 1975. To date, Several identifying numbers remain unaccounted for, suggesting that additional products may exist. This list will update as further information become available. 
-#### Number of Identified Products: 108
+#### Number of Identified Products: 109
 
 [Google Sheets List](https://docs.google.com/spreadsheets/d/1BEoBxgYJAz1wD-ddWslR1GFDmVIkTwQlGFEdEqTLtqE/edit?usp=sharing)
 
@@ -107,6 +107,7 @@ This page presents a comprehensive list of products produced by **Gameophiles Un
 - 7346 - [Beatrix Potter's Mr. Jeremy Fisher](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7346.html)
 
 ##### 1974
+- 7414 - Beatrix Potter's Benjamin Bunny (500 Piece)
 - 7420 - Beatrix Potter's Peter Rabbit
 - 7421 - Beatrix Potter's Roly-Poly Pudding
 - 7422 - [Beatrix Potter's Squirrel Nutkin](https://zuzannakelvin.github.io/gameophiles-unlimited-jigsaw-puzzles-csv/items/7422.html)
